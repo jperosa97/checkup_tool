@@ -3,6 +3,7 @@
     <v-main>
       <ToolBar />
       <Tabs />
+      <Footer/>
     </v-main>
   </v-app>  
 </template>
