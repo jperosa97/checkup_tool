@@ -1,4 +1,4 @@
-# default
+# Checkup Tool
 
 ## Project setup
 
